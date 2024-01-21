@@ -21,3 +21,13 @@
 10. [Missing Number](Missing%20Number.java)
 
 11. [Binary Search](Binary%20Search.java)
+
+12. [Implement Lower Bound and Implement Upper Bound](Implement%20Lower%20Bound%20and%20Implement%20Upper%20Bound.java)
+
+13. [Search Insert Position](Search%20Insert%20Position.java)
+
+14. [Ceil The Floor](Ceil%20The%20Floor.java)
+
+15. [Excel Sheet Column Number](Excel%20Sheet%20Column%20Number.java)
+
+16. [Excel Sheet Column Title](Excel%20Sheet%20Column%20Title.java)

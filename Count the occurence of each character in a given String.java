@@ -3,6 +3,10 @@
 import java.util.*;
 import java.io.*;
 
+// Using HashMap
+
+// T = O(n);
+// S = O(n);  where n is distinct characters
 class GFG {
 	public static void main (String[] args) {
 		String s = "harshverma";
@@ -19,3 +23,20 @@ class GFG {
 		System.out.println(charCount);
 	}
 }
+
+// Using Java 8 - Streams
+
+// T = O(n);
+// S = O(n);  where n is distinct characters
+class GFG {
+	public static void main (String[] args) {
+		String input = "harshverma";
+        Map<Character, Long> characterCount = input.chars()  // Change to int stream
+                .mapToObj(c -> (char) c)
+		.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));	// Grouping by characters & counting its no.s
+                // .collect(Collectors.groupingBy(c -> c, Collectors.counting()));	
+                
+		System.out.println(characterCount);
+	}
+}
+

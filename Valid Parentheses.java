@@ -43,7 +43,7 @@ class Solution {
 // Logical Approach -
 
 // If we think on comparison them and pushing the respective closing brackets instead of opening onces.
-// We want require to have a comparison map 
+// We won't require to have a comparison map 
 // Simple and more readable.
 
 // T = O(n);
@@ -59,7 +59,7 @@ class Solution {
             stack.push(']');
           } else if(c == '{') {
             stack.push('}');
-          } else if (stack.empty() || stack.pop()!=c) { // If Empty - false, not empty & peek element doesn't match - false
+          } else if (stack.empty() || stack.pop()!=c) { // If Empty - true, not empty & peek element doesn't match - true
             return false;
           }
         }

@@ -1,4 +1,5 @@
-// Find the Index of the First Occurrence in a String
+// LC
+// 28. Find the Index of the First Occurrence in a String
 
 // Brute Force 
 

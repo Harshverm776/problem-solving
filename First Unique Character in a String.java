@@ -1,4 +1,5 @@
-// First Unique Character in a String (Non-Repeating Character)
+// LC
+// 387. First Unique Character in a String (Non-Repeating Character)
 
 // Brute Force - Not Recommended if length of string is too high
 

@@ -22,12 +22,22 @@
 
 11. [Binary Search](Binary%20Search.java)
 
-12. [Implement Lower Bound and Implement Upper Bound](Implement%20Lower%20Bound%20and%20Implement%20Upper%20Bound.java)
+12. [Largest Number](Largest%20Number.java)
 
-13. [Search Insert Position](Search%20Insert%20Position.java)
+13. [Remove Duplicates from Sorted Array](Remove%20Duplicates%20from%20Sorted%20Array.java)
 
-14. [Ceil The Floor](Ceil%20The%20Floor.java)
+14. [Valid Parentheses](Valid%20Parentheses.java)
 
-15. [Excel Sheet Column Number](Excel%20Sheet%20Column%20Number.java)
+15. [Simple Bank System](Simple%20Bank%20System.java)
 
-16. [Excel Sheet Column Title](Excel%20Sheet%20Column%20Title.java)
+16. [Reverse String or Array](Reverse%20String%20or%20Array.java)
+
+17. [Find the Index of the First Occurrence in a String](Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.java)
+
+18. [Ceil The Floor](Ceil%20The%20Floor.java)
+
+19. [Excel Sheet Column Number](Excel%20Sheet%20Column%20Number.java)
+
+20. [Excel Sheet Column Title](Excel%20Sheet%20Column%20Title.java)
+
+21. [Implement Lower Bound and Implement Upper Bound.java](Implement%20Lower%20Bound%20and%20Implement%20Upper%20Bound.java)
